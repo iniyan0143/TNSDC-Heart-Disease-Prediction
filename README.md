@@ -43,8 +43,7 @@
 
   <ol>
     <li><strong>Clone the Repository:</strong>
-      <pre><code>git clone https://github.com/your-username/heart-disease-prediction-app.git
-cd heart-disease-prediction-app
+      <pre><code>git clone https://github.com/iniyan0143/TNSDC-Heart-Disease-Prediction.git
 </code></pre>
     </li>
     <li><strong>Install Dependencies:</strong>
